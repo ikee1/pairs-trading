@@ -5,6 +5,7 @@ Started by looking into the basics of pairs trading using this [investopedia art
 
 Found [this](https://hudsonthames.org/an-introduction-to-cointegration/) useful. 
 ## Begun a jupyter notebook
-Exploring yfinance and pandas, using Coca-Cola Company([KO](https://finance.yahoo.com/quote/KO/)) and PepsiCo Inc([PEP](https://finance.yahoo.com/quote/PEP/)) as my stocks for practicing with.
+Exploring yfinance and pandas python libraries, using Coca-Cola Company([KO](https://finance.yahoo.com/quote/KO/)) and PepsiCo Inc([PEP](https://finance.yahoo.com/quote/PEP/)) as my stocks for practicing with.
+
 
 
